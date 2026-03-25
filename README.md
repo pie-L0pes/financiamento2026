@@ -31,8 +31,19 @@ assets/
 Exemplos de telas:
 
 * Tela inicial com formulário
+<img width="252" height="561" alt="Tela1" src="https://github.com/user-attachments/assets/92e8fff0-e0f8-4b1b-8863-d0629fa77ed2" />
+
 * Tela com dados preenchidos
+<img width="252" height="561" alt="Tela2" src="https://github.com/user-attachments/assets/cdd3d9bf-b20c-4a58-987d-960afb0df204" />
+
 * Resultado do cálculo exibido em popup
+<img width="252" height="561" alt="Tela 3" src="https://github.com/user-attachments/assets/c6064f9c-8d8a-4e73-bde2-345dc4f1d344" />
+
+---
+## 🖌️ Link do Protótipo
+
+Link do Protótipo do figma:
+https://www.figma.com/proto/LDVUR7pxIEg8iVFngTtIFS/Financiamento?node-id=0-1&t=Rj2rPtu2sGgnkCzM-1
 
 ---
 
